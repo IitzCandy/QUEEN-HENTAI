@@ -59,7 +59,7 @@ global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
+global.wait = '*Im trying my best here, boss. Ill get it done.*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
 global.done = '🗿'
