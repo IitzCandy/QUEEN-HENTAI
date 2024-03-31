@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '𝕮𝖆𝖓𝖉𝖞🗿'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
+global.packname = '💝 🄲🄰🄽🄳🅈 🄿🅁🄾 🄼🄰🅇 💝 Created By 💝 ℭ𝔢𝔰𝔞𝔯 💝' 
+global.author = '💝🄲🄰🄽🄳🅈💝' 
 global.igfg = '▢ Follow on Facebook\https://www.facebook.com/profile.php?id=61551915615888\n' 
 global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
@@ -62,8 +62,8 @@ global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg'
 global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
 global.rwait = '🇱🇰'
 global.dmoji = '🤣'
-global.done = '👍'
-global.error = '👎' 
+global.done = '🗿'
+global.error = '❗'
 global.xmoji = '🫶' 
 
 global.multiplier = 69 
